@@ -1,0 +1,2 @@
+dir = 0 : rembobine = montée cabine
+dir = 1 : descente cabine
